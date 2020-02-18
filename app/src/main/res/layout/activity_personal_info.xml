@@ -291,8 +291,8 @@
         android:id="@+id/textView18"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="28dp"
-        android:layout_marginRight="28dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
         android:text="+123423432"
         android:textColor="#000"
         app:layout_constraintBottom_toBottomOf="@+id/imageView12"
@@ -304,8 +304,8 @@
         android:id="@+id/textView19"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="28dp"
-        android:layout_marginRight="28dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
         android:text="Otawa"
         android:textColor="#000"
         app:layout_constraintBottom_toTopOf="@+id/imageView13"
@@ -317,14 +317,14 @@
         android:id="@+id/textView20"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="28dp"
+        android:layout_marginEnd="32dp"
         android:layout_marginRight="28dp"
         android:text="296 Elgin St, Ottawa,ON x 1M3 Canada"
         android:textColor="#000"
         app:layout_constraintBottom_toBottomOf="@+id/imageView14"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView13"
-        app:layout_constraintVertical_bias="0.333" />
+        app:layout_constraintVertical_bias="0.629" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
